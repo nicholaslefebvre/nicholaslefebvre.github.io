@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://nicholaslefebvre.github.io/sitemap.xml
